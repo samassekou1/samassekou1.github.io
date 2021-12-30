@@ -513,12 +513,12 @@
 }
 
 .theme-red .timeline li:first-child .title {
-  background-color: #3cef24;
+  background-color: #212ee7;
 }
 
 .theme-red .timeline li:first-child::before {
-  background-color: #27eb15b4;
-  box-shadow: 0 0 0 2px #3cef24;
+  background-color: #212ee7;
+  box-shadow: 0 0 0 2px #212ee7;
 }
 
 /* Theme Blue */
